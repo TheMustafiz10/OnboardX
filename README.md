@@ -1,1 +1,2 @@
 # OnboardX
+OnboardX is a sleek, cross-platform mobile experience built with Flutter that demonstrates a polished and interactive onboarding flow. It features smooth animations, a location-aware welcome screen that personalizes the user experience, and integrated alarm scheduling powered by local notifications. Designed with a focus on clean UI and usability, this project highlights how modern mobile apps can combine engaging design with practical functionality, making it a great example of building intuitive user journeys using Flutter.
