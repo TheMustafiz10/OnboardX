@@ -10,7 +10,7 @@ OnboardX is a sleek, cross-platform mobile experience built with Flutter that de
    - Platform-specific tooling (Android Studio/Xcode/Visual Studio) depending on where you plan to run the app.
 2. **Clone the repository**
    ```powershell
-   git clone [<repo-url>](https://github.com/TheMustafiz10/OnboardX.git)
+   git clone https://github.com/TheMustafiz10/OnboardX.git
    cd OnboardX
    ```
 3. **Install dependencies**
